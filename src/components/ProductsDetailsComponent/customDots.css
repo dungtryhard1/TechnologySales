@@ -1,0 +1,11 @@
+.custom-dots {
+    display: flex !important;
+    justify-content: space-between;
+    padding: 0;
+    margin: 12px 0; 
+    gap: 10px; 
+    flex-wrap: nowrap !important;
+}
+.custom-dots li {
+    list-style-type: none;
+}
